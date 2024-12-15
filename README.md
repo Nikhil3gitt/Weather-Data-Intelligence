@@ -64,11 +64,6 @@ Developed two predictive models:
 4. Build dashboards with Tableau using Blob Storage.
 5. Perform EDA and forecasting in Azure ML Studio using provided notebooks.
 
-## Data Sources & Links
-- Global Historical Climatology: NCEI Historical Data
-- OpenWeather API: [OpenWeather API](https://openweathermap.org/current)
-- Historical Raw Data: [Google Drive Link](Replace with your GDrive link)
-
 ## Contact
 **Nikhilbhai Nakum**
 -	Email: nakum.nikhil33@gmail.com
