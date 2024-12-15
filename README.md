@@ -3,7 +3,7 @@
 ## Overview
 This project builds an end-to-end pipeline to ingest, preprocess, analyze, and forecast weather data using Azure Data Factory, Azure Data Lake Storage (ADLS), Databricks, and Azure Machine Learning Studio. It also features a dynamic Tableau dashboard for visualization.
 
-![Project Architecture](./screenshot.png)
+![Project Architecture](./Method.drawio.png)
 
 ## Workflow
 #### 1. Data Sources
